@@ -8,11 +8,15 @@ For any questions regarding the use of this repository, please get in touch at D
 If using the code, please consider citing our paper:
 Akarca, D. et al. Homophilic wiring principles underpin neuronal network topology in vitro. bioRxiv.
 
-**Requirements
+**Requirements**
+
 The following installations are required to use all the attached scripts. However, most will be usable with MATLAB alone. Installation time on a typical computer should take no longer than 60 minutes.
+
 •	MATLAB 2019b (installation: https://uk.mathworks.com/help/install/install-products.html)
+
 •	Brain Connectivity Toolbox, 2019 (installation: https://sites.google.com/site/bctnet/)
-•	See the remaining requirements in /toolboxes
+
+•	See the remaining requirements in **/toolboxes**
 
 **Data availability**
 
