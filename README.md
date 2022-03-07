@@ -2,7 +2,7 @@
 
 This repository contains all relevant code to replicate our findings. 
 
-For any questions regarding the use of this repository, please get in touch at Danyal.akarca@mrc-cbu.cam.ac.uk or da434@cam.ac.uk 
+For any questions regarding the use of this repository, please get in touch at danyal.akarca@mrc-cbu.cam.ac.uk or da434@cam.ac.uk 
 
 If using the code, please consider citing our paper:
 
