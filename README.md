@@ -28,18 +28,17 @@ The following installations are required to use all the attached scripts. Howeve
 
 **/code**
 
-•	100k_data_overview.m
-•	This allows you to generate our tSNE plot highlighting all rodent primary cortical (PC), human induced pluripotent stem cell (iPSC) and human cerebral organoid (hCO) data.
+•	**100k_data_overview.m.** This allows you to generate our tSNE plot highlighting all rodent primary cortical (PC), human induced pluripotent stem cell (iPSC) and human cerebral organoid (hCO) data.
 
 •	A sub-repository for code relating to PCs, iPSCs, hCOs and gabazine datasets
 
-•	50k relates to sparser plating densities (50,000 neurons), 100k relates to denser plating densities (100,000 neurons).
+•	**code/50k** relates to sparser plating densities (50,000 neurons), **code/100k** relates to denser plating densities (100,000 neurons).
 
-•	“explore” scripts allow you to visualise and analyse observed neuronal network datasets.
+•	**“explore”** scripts allow you to visualise and analyse observed neuronal network datasets.
 
-•	“run” scripts are functions submitted to high performance clusters that perform the generative network modelling simulations on each of the observed neuronal networks.
+•	**“run”** scripts are functions submitted to high performance clusters that perform the generative network modelling simulations on each of the observed neuronal networks.
 
-•	“analyse” are scripts that provide all analysis that are the outputs of the generative modelling.
+•	**“analyse”** are scripts that provide all analysis that are the outputs of the generative modelling.
 
 **/statistics**
 
