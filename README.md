@@ -1,14 +1,15 @@
-# **Homophilic wiring principles underpin neuronal network topology in vitro**
-Akarca, D. *et al*. 2022. *bioRxiv*.
+# Homophilic wiring principles underpin neuronal network topology *in vitro*
+## Akarca, D. *et al*. 2022. *bioRxiv*.
 
 This repository contains all relevant code to replicate our findings. 
 
 For any questions regarding the use of this repository, please get in touch at Danyal.akarca@mrc-cbu.cam.ac.uk or da434@cam.ac.uk 
 
 If using the code, please consider citing our paper:
-Akarca, D. *et al.* Homophilic wiring principles underpin neuronal network topology in vitro. *bioRxiv.*
 
-**Requirements**
+### Akarca, D. *et al.* Homophilic wiring principles underpin neuronal network topology in vitro. *bioRxiv.*
+
+## **Requirements**
 
 The following installations are required to use all the attached scripts. However, most will be usable with MATLAB alone. Installation time on a typical computer should take no longer than 60 minutes.
 
@@ -18,7 +19,7 @@ The following installations are required to use all the attached scripts. Howeve
 
 •	See the remaining requirements in **/toolboxes**
 
-**Data availability**
+## **Data availability**
 
   All pre-processed data (27.3Gb) can be found here: **Link to come**
 
@@ -28,7 +29,7 @@ The following installations are required to use all the attached scripts. Howeve
   
   ![sem_hdmea](https://user-images.githubusercontent.com/28649488/157096000-d892a4c3-8676-4599-85b0-814679b5dc95.jpeg)
 
-**/code**
+## **/code**
 
 •	**100k_data_overview.m.** This allows you to generate our tSNE plot highlighting all rodent primary cortical (PC), human induced pluripotent stem cell (iPSC) and human cerebral organoid (hCO) data.
 
@@ -44,6 +45,6 @@ The following installations are required to use all the attached scripts. Howeve
 
 ![figure_2](https://user-images.githubusercontent.com/28649488/157096048-73894ea0-6393-4ba4-bace-72dca95ebd86.jpg)
 
-**/statistics**
+## **/statistics**
 
 •	These are produced .csv files from the analysis scripts that show statistical comparisons of model fits
