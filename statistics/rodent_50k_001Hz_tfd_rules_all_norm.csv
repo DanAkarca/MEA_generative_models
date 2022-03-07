@@ -1,0 +1,7 @@
+Rule A,Rule B,DIV7 p=0.644,DIV7 Cohen d,DIV10 p=0.0138,DIV10 Cohen d,DIV12 p=1.06e-08,DIV12 Cohen d,DIV14 p=2.93e-11,DIV14 Cohen d
+Homophily,Degree,0.74,-15,0.179,1.13,0.000681,1.25,0.000348,1.55
+Homophily,Clustering,0.948,-1.21,0.00931,0.879,7.44e-09,1.9,3.8e-09,2.33
+Homophily,Spatial,0.999,NaN,0.846,0.616,0.0106,2.43,0.157,0.999
+Degree,Clustering,0.829,0.231,0.459,0.453,0.000758,0.798,1.03e-05,1.02
+Degree,Spatial,0.824,0.233,0.9,-0.642,0.963,0.365,0.815,-0.552
+Clustering,Spatial,0.98,0.191,0.391,-0.675,0.26,-0.727,0.00127,-1.37

@@ -1,0 +1,7 @@
+Rule A,Rule B,p=6.88e-05,Cohen d
+Homophily,Degree,0.192,0.986
+Homophily,Clustering,0.159,0.858
+Homophily,Spatial,2.17e-05,2.47
+Degree,Clustering,0.999,0.0354
+Degree,Spatial,0.000695,2.17
+Clustering,Spatial,0.000897,1.85

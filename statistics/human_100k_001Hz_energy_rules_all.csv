@@ -1,0 +1,7 @@
+Rule A,Rule B,GN p=9.67e-12,GN Cohen d,MN p=4.81e-12,MN Cohen d,DN p=1.35e-05,DN Cohen d
+Homophily,Degree,0.000116,0.881,0.000948,0.821,0.0219,0.642
+Homophily,Clustering,6.15e-09,2.67,0.000202,1.6,1.59e-05,1.19
+Homophily,Spatial,4.12e-09,2.32,3.77e-09,6.88,0.00173,1.14
+Degree,Clustering,0.00832,0.42,0.941,0.0859,0.03,0.715
+Degree,Spatial,3.59e-05,1.05,1.07e-08,2.13,0.204,0.854
+Clustering,Spatial,0.0235,1.18,3.43e-08,1.89,0.985,0.51

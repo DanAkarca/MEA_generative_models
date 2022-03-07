@@ -1,0 +1,15 @@
+#wrapper to run generative models with the voronoi tesselation
+import os
+from subprocess import call
+wd = "/imaging/astle/users/da04/PhD/hd_gnm_generative_models/rodent_50k_qc"
+os.chdir(wd)
+for pipeline in range(1,4):
+	for network in range(1,7):
+		for div in range(1,5):
+			name = "run_rodent_50k_voronoi(" + str(pipeline) + "," + str(network) + "," + str(div) + ")"
+			cmd = "#!/bin/sh \ncd " + wd + "\nmatlab_2020b -r " + "\"" + name + "\""
+			file = open("generative_model_rodent_50k_voronoi_" + str(pipeline) + "_" + str(network) + "_" + str(div)+ ".sh",'w')
+			file.write(cmd)
+			file.close()
+			cmd = "sbatch --time=6-00:00:00 --mincpus=12 generative_model_rodent_50k_voronoi_" + str(pipeline) + "_" + str(network)+ "_" + str(div) + ".sh"
+			call(cmd,shell=True)
