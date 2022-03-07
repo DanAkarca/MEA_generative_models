@@ -1,5 +1,5 @@
-**Homophilic wiring principles underpin neuronal network topology in vitro
-Akarca, D. et al. 2022. *bioRxiv.
+**Homophilic wiring principles underpin neuronal network topology in vitro**
+Akarca, D. *et al*. 2022. *bioRxiv*.
 
 This repository contains all relevant code to replicate our findings. 
 
@@ -14,13 +14,13 @@ The following installations are required to use all the attached scripts. Howeve
 •	Brain Connectivity Toolbox, 2019 (installation: https://sites.google.com/site/bctnet/)
 •	See the remaining requirements in /toolboxes
 
-**Data availability
+**Data availability**
 
-All pre-processed data (27.3Gb) can be found here: <Link to come>
-All generative model outputs (28.2Gb) can be found here: <Link to come>
+All pre-processed data (27.3Gb) can be found here: **<Link to come>**
+All generative model outputs (28.2Gb) can be found here: **<Link to come>**
 For each script within this repository, you will need to set your own path to the data in addition to the toolbox folder.
 
-/code
+**/code**
 
 •	100k_data_overview.m
 •	This allows you to generate our tSNE plot highlighting all rodent primary cortical (PC), human induced pluripotent stem cell (iPSC) and human cerebral organoid (hCO) data.
@@ -35,6 +35,6 @@ For each script within this repository, you will need to set your own path to th
 
 •	“analyse” are scripts that provide all analysis that are the outputs of the generative modelling.
 
-/statistics
+**/statistics**
 
 •	These are produced .csv files from the analysis scripts that show statistical comparisons of model fits
