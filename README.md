@@ -25,6 +25,8 @@ The following installations are required to use all the attached scripts. Howeve
   All generative model outputs (28.2Gb) can be found here: **Link to come**
   
   For each script within this repository, you will need to set your own path to the data in addition to the toolbox folder.
+  
+  ![sem_hdmea](https://user-images.githubusercontent.com/28649488/157096000-d892a4c3-8676-4599-85b0-814679b5dc95.jpeg)
 
 **/code**
 
@@ -39,6 +41,8 @@ The following installations are required to use all the attached scripts. Howeve
 •	**“run”** scripts are functions submitted to high performance clusters that perform the generative network modelling simulations on each of the observed neuronal networks.
 
 •	**“analyse”** are scripts that provide all analysis that are the outputs of the generative modelling.
+
+![figure_2](https://user-images.githubusercontent.com/28649488/157096048-73894ea0-6393-4ba4-bace-72dca95ebd86.jpg)
 
 **/statistics**
 
