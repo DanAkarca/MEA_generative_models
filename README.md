@@ -21,9 +21,7 @@ The following installations are required to use all the attached scripts. Howeve
 
 ## **Data availability**
 
-  All pre-processed data (27.3Gb) can be found here: **Link to come**
-
-  All generative model outputs (28.2Gb) can be found here: **Link to come**
+  All pre-processed and generative model data can be found here: https://zenodo.org/record/6362134#.YjHLbi-l2J9
   
   For each script within this repository, you will need to set your own path to the data in addition to the toolbox folder.
   
