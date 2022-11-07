@@ -27,12 +27,8 @@ For each script within this repository, you will need to set your own path to th
   
 ![sem_hdmea](https://user-images.githubusercontent.com/28649488/157096000-d892a4c3-8676-4599-85b0-814679b5dc95.jpeg)
 
-## **/code**
+## **Code**
 
 Each figure is provided as a seperate script.
 
 ![figure_2](https://user-images.githubusercontent.com/28649488/157096048-73894ea0-6393-4ba4-bace-72dca95ebd86.jpg)
-
-## **/statistics**
-
-•	These are produced .csv files from the analysis scripts that show statistical comparisons of model fits
