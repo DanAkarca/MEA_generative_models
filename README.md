@@ -6,8 +6,8 @@ For any questions regarding the use of this repository, please get in touch at d
 
 If using the code, please consider citing our paper:
 
-### Akarca, D. *et al.* 2022. Homophilic wiring principles underpin neuronal network topology in vitro. *bioRxiv.*
-https://www.biorxiv.org/content/10.1101/2022.03.09.483605v1
+### Danyal Akarca*, Alexander WE Dunn*, Philipp J Hornauer, Silvia Ronchi, Michele Fiscella, Congwei Wang, Marco Terrigno, Ravi Jagasia, Petra E Vértes, Susanna B Mierau, Ole Paulsen, Stephen J Eglen, Andreas Hierlemann, Duncan E Astle+ & Manuel Schröter+ (2025) Homophilic wiring principles underpin neuronal network topology in vitro eLife 14:e85300.
+*Co-lead authors, +Co-senior authors
 
 ## **Requirements**
 
