@@ -6,8 +6,8 @@ For any questions regarding the use of this repository, please get in touch at d
 
 If using the code, please consider citing our paper:
 
-### Danyal Akarca<sup>*</sup>, Alexander WE Dunn<sup>*</sup>, Philipp J Hornauer, Silvia Ronchi, Michele Fiscella, Congwei Wang, Marco Terrigno, Ravi Jagasia, Petra E Vértes, Susanna B Mierau, Ole Paulsen, Stephen J Eglen, Andreas Hierlemann, Duncan E Astle<sup>+</sup> & Manuel Schröter<sup>+</sup> (2025) Homophilic wiring principles underpin neuronal network topology in vitro eLife 14:e85300.
-*Co-lead authors, +Co-senior authors
+### Danyal Akarca<sup>+</sup>, Alexander WE Dunn<sup>+</sup>, Philipp J Hornauer, Silvia Ronchi, Michele Fiscella, Congwei Wang, Marco Terrigno, Ravi Jagasia, Petra E Vértes, Susanna B Mierau, Ole Paulsen, Stephen J Eglen, Andreas Hierlemann, Duncan E Astle<sup>++</sup> & Manuel Schröter<sup>++</sup> (2025) Homophilic wiring principles underpin neuronal network topology in vitro eLife 14:e85300.
++Co-lead authors, ++Co-senior authors
 
 ## **Requirements**
 
